@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2024-08-30T07:38:43.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="4wj04Jztvxhbec4M-nR3" version="22.1.21" type="device">
+  <diagram name="Page-1" id="2h09jcBM9F8fxG0FTr7t">
+    <mxGraphModel dx="714" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="36.79998779296875" y="299.71" as="sourcePoint" />
+            <mxPoint x="130" y="299.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-5" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188.39998779296874" y="290" as="sourcePoint" />
+            <mxPoint x="291.6" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-6" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193.39998779296874" y="380" as="sourcePoint" />
+            <mxPoint x="286.6" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-7" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="36.99998779296875" y="369.71" as="sourcePoint" />
+            <mxPoint x="130.2" y="369.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-15" value="&lt;font color=&quot;#ff2626&quot;&gt;Method 2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-16" value="&lt;font color=&quot;#0810ff&quot;&gt;Method 1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-17" value="Both methods certain&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-19" value="Assumed that either one OR the othe rmethod uncertain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="510" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-20" value="Assumed that both methods are uncertain&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-21" value="Error" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-22" value="Likelihood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IvuMV-Fi4I-H2KRrxUbM-23" value="Statistical test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
